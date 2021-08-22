@@ -1,6 +1,7 @@
 # Docker Demo/Assignment
 
-https://github.com/PGCSEDS-IIITH/compose-iris contains code which demonstrates docker and docker-compose using the IRIS dataset (https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html)
+https://github.com/PGCSEDS-IIITH/compose-iris contains code which demonstrates docker and docker-compose using the Penguins data 
+<!-- IRIS dataset (https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html) -->
 
 
 ## Pre-requisites
